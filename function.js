@@ -11,3 +11,7 @@ const fullName = "Mehrnaz Shokouhmand";
 const test = () => {
   return false
 }
+
+const like = () => {
+  return true
+}
