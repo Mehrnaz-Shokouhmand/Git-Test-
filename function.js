@@ -7,3 +7,7 @@ const isLogin = () => {
 const age = 21;
 
 const fullName = "Mehrnaz Shokouhmand";
+
+const test = () => {
+  return false
+}
