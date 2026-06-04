@@ -9,9 +9,13 @@ const age = 21;
 const fullName = "Mehrnaz Shokouhmand";
 
 const test = () => {
-  return false
-}
+  return false;
+};
 
 const like = () => {
-  return true
-}
+  return true;
+};
+
+const ticket = () => {
+  return false;
+};
