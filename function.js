@@ -19,5 +19,9 @@ const ticket = () => {
 };
 
 const getMe = (user) => {
-  return user.name
-}
+  return user.name;
+};
+
+const setComment = (comment) => {
+  return comment.body;
+};
