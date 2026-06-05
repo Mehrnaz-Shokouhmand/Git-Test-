@@ -17,3 +17,7 @@ const like = () => {
 const ticket = () => {
   return false;
 };
+
+const getMe = (user) => {
+  return user.name
+}
