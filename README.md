@@ -93,3 +93,11 @@ UnOrdered :
 ![GitHub Image](https://blog.kubesimplify.com/img/blog/git-and-github-a-beginners-guide/q3I5kJ5U9.jpeg)
 
 ![GitHub Image](https://cdn.mos.cms.futurecdn.net/W5LnBksnN2E3PTCdgDF9g3.png)
+
+---
+
+### badge
+
+![badge](https://img.shields.io/badge/github-repo-blue?logo=github)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
