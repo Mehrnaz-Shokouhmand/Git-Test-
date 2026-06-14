@@ -76,6 +76,25 @@ UnOrdered :
   - Vue Js
   - Angular js
 
+1. FrontEnd
+2. React Js
+3. Vue Js
+4. Angular js
+
+---
+
+### Tables
+
+| Col 1       | Col 2       | Col 3       |
+| ----------- | ----------- | ----------- |
+| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
+| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
+
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
+
 ---
 
 ### Project Links
@@ -98,6 +117,28 @@ UnOrdered :
 
 ### badge
 
-![badge](https://img.shields.io/badge/github-repo-blue?logo=github)
+![badge](https://img.shields.io/badge/Mehrnaz-Shokouhmand-purple)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### font format
+
+-This **Text** Is Bold
+
+-This **Text** Is Bold
+
+-This _Text_ Is Bold
+
+-This _Text_ Is Bold
+
+-This **_Text_** Is Bol
+
+> I Am `Front_End` Developer
+
+> Html , Css , JavaScript , React Js
+
+```diff
+- const login = {} => true
+
++ const login = {} => jwtToken
+```
